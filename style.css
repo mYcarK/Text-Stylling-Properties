@@ -1,0 +1,13 @@
+h2{
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-decoration: underline;
+text-transform: lowercase;
+text-shadow: 2px 2px 2px rgb(64, 158, 158);
+box-shadow: 2px 2px 2px turquoise;
+text-indent: 10%;
+}
+p{
+transform: rotateX('180');
+
+color: peru;
+}
